@@ -1,0 +1,15 @@
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\bin\Debug\net6.0\BankEncasulation.exe
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\bin\Debug\net6.0\BankEncasulation.deps.json
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\bin\Debug\net6.0\BankEncasulation.runtimeconfig.json
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\bin\Debug\net6.0\BankEncasulation.dll
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\bin\Debug\net6.0\BankEncasulation.pdb
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.csproj.AssemblyReference.cache
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.AssemblyInfoInputs.cache
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.AssemblyInfo.cs
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.dll
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\refint\BankEncasulation.dll
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.pdb
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\BankEncasulation.genruntimeconfig.cache
+C:\Users\Jessica\Desktop\Repos\BankEncasulation\BankEncasulation\obj\Debug\net6.0\ref\BankEncasulation.dll
